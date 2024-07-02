@@ -16,7 +16,7 @@
 
 ## How to reach me **rudrolipi@gmail.com**
 
-<h3 align="left">Connect with me</h3>
+## Connect with me
 <p align="left">
   <a href="https://twitter.com/svhodro4823" target="blank"
     ><img
@@ -47,8 +47,8 @@
       width="40"
   /></a>
 </p>
-<hr>
-<h3 align="left">Familiar With Languages and Tools</h3>
+
+## Familiar With Languages and Tools
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -129,8 +129,9 @@
  
 
 </p>
-<hr>
-<h1>Currently exploring</h1>
+
+## Currently exploring
+
 <p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
@@ -157,7 +158,7 @@
     />
   </a>
 </p>
-<hr>
+
 <p>
   
   <img
