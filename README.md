@@ -158,24 +158,8 @@
     />
   </a>
 </p>
+<hr>
 
-<p>
-  
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=svhodro&show_icons=true&locale=en&layout=compact&theme=github_dark"
-    alt="svhodro"
-  />
-</p>
-<hr>
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=svhodro&show_icons=true&locale=en&theme=github_dark"
-    alt="svhodro"
-  />
-</p>
-<hr>
 <p>
   <img
     align="center"
@@ -184,7 +168,5 @@
   />
 </p>
 <hr>
-<div align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svhodro&theme=github_dark" alt="sporsho's GitHub Stats"/>
-</div>
+
 
