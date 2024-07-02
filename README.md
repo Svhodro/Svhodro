@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Sporsho Vhodro</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
-
+<img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg" width="100%" />
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=svhodro&label=Profile%20views&color=0e75b6&style=flat"
@@ -8,10 +8,10 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Food-del Web app** - 💬 Ask me about **react** -
-📫 How to reach me **rudrolipi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## How to reach me **rudrolipi@gmail.com**
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://twitter.com/svhodro4823" target="blank"
     ><img
@@ -43,7 +43,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Familiar With Languages and Tools</h3>
 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
