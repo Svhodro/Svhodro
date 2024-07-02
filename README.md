@@ -27,7 +27,7 @@
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/v-sporsho-b7134429a/"
+    href="https://www.linkedin.com/in/v-sporsho-b7134429a/"
     target="blank"
     ><img
       align="center"
