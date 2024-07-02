@@ -9,7 +9,7 @@
 </p>
 <div align="left">
   <h2>About Me</h2>
-  <p>I'm a junior front-end web developer passionate about creating user-friendly interfaces. Currently exploring the world of react js , next js and for the backend familiar with firebase and also some node js , express , mongodb </p>
+  <p>I'm a junior web developer passionate about creating user-friendly interfaces. Currently exploring the world of react js , next js and for the backend familiar with firebase and also some node js , express , mongodb </p>
 </div>
 
 
