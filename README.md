@@ -92,14 +92,7 @@
       height="40"
     />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="50"
-      height="40"
-    />
-  </a>
+
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
@@ -133,15 +126,13 @@
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="50"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+ 
+
+</p>
+<hr>
+<h1>Currently exploring</h1>
+<p>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
@@ -149,9 +140,26 @@
       height="40"
     />
   </a>
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
+      width="50"
+      height="40"
+    />
+  </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
+      width="50"
+      height="40"
+    />
+  </a>
 </p>
 <hr>
 <p>
+  
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=svhodro&show_icons=true&locale=en&layout=compact&theme=github_dark"
