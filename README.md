@@ -37,7 +37,7 @@
       width="40"
   /></a>
   <a
-    href="https://fb.com/https://www.facebook.com/profile.php?id=61552548910215"
+    href="https://www.facebook.com/profile.php?id=61552548910215"
     target="blank"
     ><img
       align="center"
